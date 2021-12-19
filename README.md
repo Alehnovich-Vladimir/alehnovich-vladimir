@@ -14,9 +14,14 @@
 
 
 ### Follow Me
-![YouTube](https://img.shields.io/badge/-YouTube-212121?style=flat-square&logo=YouTube&logoColor=FF0000)
-![Telegram](https://img.shields.io/badge/-Telegram-212121?style=flat-square&logo=Telegram&logoColor=27A0D9)
+[![YouTube](https://img.shields.io/badge/-YouTube-212121?style=flat-square&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCusX4xXAE75BbX79dqy8q2A)
+[![Telegram](https://img.shields.io/badge/-Telegram-212121?style=flat-square&logo=Telegram&logoColor=27A0D9)](https://t.me/AlexVovan)
 ![Instagram](https://img.shields.io/badge/-Instagram-212121?style=flat-square&logo=Instagram&logoColor=B4068E)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-212121?style=flat-square&logo=LinkedIn&logoColor=007BB6)
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-212121?style=flat-square&logo=Vk&logoColor=4F7DB3)
-![Facebook](https://img.shields.io/badge/-Facebook-212121?style=flat-square&logo=Facebook&logoColor=27A0D9)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-212121?style=flat-square&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/vladimir-alekhnovich-97a128216/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-212121?style=flat-square&logo=Vk&logoColor=4F7DB3)](https://vk.com/alex_vovan)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alehnovich-Vladimir&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alehnovich-Vladimir&layout=compact)](https://github.com/Alehnovich-Vladimir/github-readme-stats)
+
