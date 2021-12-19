@@ -2,7 +2,7 @@
 
 ##  I am a beginner front end developer. My goal is to learn how to write clean code and work in a friendly team on cool projects. Now I am studying Javascript hard and I want to develop in Reract. If you need an assistant trainee in your project, I will be happy to take part in this.
 
-Languages and Tools
+### Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-212121?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-212121?style=flat-square&logo=css3&logoColor=47C5FB)
 ![SASS](https://img.shields.io/badge/SASS-212121?style=flat-square&logo=SASS)
@@ -13,5 +13,10 @@ Languages and Tools
 ![React](https://img.shields.io/badge/React-212121?style=flat-square&logo=React)
 
 
-Follow Me
-
+### Follow Me
+![YouTube](https://img.shields.io/badge/-YouTube-212121?style=flat-square&logo=YouTube&logoColor=FF0000)
+![Telegram](https://img.shields.io/badge/-Telegram-212121?style=flat-square&logo=Telegram&logoColor=27A0D9)
+![Instagram](https://img.shields.io/badge/-Instagram-212121?style=flat-square&logo=Instagram&logoColor=B4068E)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-212121?style=flat-square&logo=LinkedIn&logoColor=007BB6)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-212121?style=flat-square&logo=Vk&logoColor=4F7DB3)
+![Facebook](https://img.shields.io/badge/-Facebook-212121?style=flat-square&logo=Facebook&logoColor=27A0D9)
