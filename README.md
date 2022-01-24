@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/React-212121?style=flat-square&logo=React)
 
 
-### Follow M
+### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-212121?style=flat-square&logo=Telegram&logoColor=27A0D9)](https://t.me/AlexVovan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-212121?style=flat-square&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/vladimir-alekhnovich-97a128216/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-212121?style=flat-square&logo=Vk&logoColor=4F7DB3)](https://vk.com/alex_vovan)
