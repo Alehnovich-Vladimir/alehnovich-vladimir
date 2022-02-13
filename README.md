@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=JavaScript)
 ![Figma](https://img.shields.io/badge/Figma-212121?style=flat-square&logo=Figma)
 ![React](https://img.shields.io/badge/React-212121?style=flat-square&logo=React)
+![Redux](https://img.shields.io/badge/Redux-212121?style=flat-square&logo=Redux)
 
 
 ### Follow Me
